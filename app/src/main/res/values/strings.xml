@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">inclass_08</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cur_exp">Current Expenses:</string>
+    <string name="default_text">There is no expense to show, Please add your expenses from the menu.</string>
+    <string name="add_button">Add</string>
+    <string name="add_exp_title">Add An Expense</string>
+    <string name="exp_name">Expense Name</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="add_exp_button">Add Expense</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="expense_details">Expense Details</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="close_text">Close</string>
+    <string name="show_exp_title">Show Expense</string>
+    <string name="edit">edit</string>
+    <string name="save">save</string>
+
+</resources>
